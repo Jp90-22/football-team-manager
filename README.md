@@ -2,7 +2,7 @@
 
 This app is a team football manager, was made as an example of React-Redux workflow and to practice the Redux library.
 
-## Features ⚙️
+### Features ⚙️
 
 - Manege your team players.
 - Manege your team substitutes.
