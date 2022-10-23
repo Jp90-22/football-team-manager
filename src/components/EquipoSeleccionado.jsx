@@ -1,13 +1,12 @@
-import React from 'react'
-import Suplentes from './Suplentes'
-import Titulares from './Titulares'
-
+import React from "react";
+import Suplentes from "./Suplentes";
+import Titulares from "./Titulares";
 
 const EquipoSeleccionado = () => (
-    <section>
-        <Titulares />
-        <Suplentes />
-    </section>
-)
+  <section>
+    <Titulares />
+    <Suplentes />
+  </section>
+);
 
-export default EquipoSeleccionado
+export default EquipoSeleccionado;

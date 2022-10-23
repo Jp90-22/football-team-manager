@@ -84,7 +84,7 @@ const reducerEntrenador = (state = defaultState, action) => {
           jugadores: state.jugadores.filter((j) => j.id !== action.jt.id),
         };
       } else {
-        alert("¡No puede haber mas de 11 titulares en la cancha!");
+        alert("¡Tu equipo no puede tener más de 11 titulares en la cancha!");
         return { ...state };
       }
 
