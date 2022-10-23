@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/football-team-manager/static/css/main.14c8f2e7.chunk.css",
+    "main.js": "/football-team-manager/static/js/main.dec66420.chunk.js",
+    "main.js.map": "/football-team-manager/static/js/main.dec66420.chunk.js.map",
+    "runtime-main.js": "/football-team-manager/static/js/runtime-main.d0c38107.js",
+    "runtime-main.js.map": "/football-team-manager/static/js/runtime-main.d0c38107.js.map",
+    "static/js/2.eb95c222.chunk.js": "/football-team-manager/static/js/2.eb95c222.chunk.js",
+    "static/js/2.eb95c222.chunk.js.map": "/football-team-manager/static/js/2.eb95c222.chunk.js.map",
+    "index.html": "/football-team-manager/index.html",
+    "static/css/main.14c8f2e7.chunk.css.map": "/football-team-manager/static/css/main.14c8f2e7.chunk.css.map",
+    "static/js/2.eb95c222.chunk.js.LICENSE.txt": "/football-team-manager/static/js/2.eb95c222.chunk.js.LICENSE.txt",
+    "static/media/cancha.d762a7bb.svg": "/football-team-manager/static/media/cancha.d762a7bb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0c38107.js",
+    "static/js/2.eb95c222.chunk.js",
+    "static/css/main.14c8f2e7.chunk.css",
+    "static/js/main.dec66420.chunk.js"
+  ]
+}
